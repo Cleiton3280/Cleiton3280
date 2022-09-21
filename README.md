@@ -1,6 +1,11 @@
 
  <div align="center">
-<h2> Seja, bem vindo!</h2>
+ <h1>Seja, bem vindo!</h1>
+ <br><h3>Sou Cleiton, criador de conteudo digital, musico, amante de tecnologia</h3>
+ <br> Atualmente trabalhando com suporte N2 a usuarios
+ <br> Conhecimento em QA
+ <br> Iniciando os estudos em desenvolvimento, inicialmente front, em primeiro momento autodidata
+ <br>estou aberto a criticas, aceito desafios, e quero fazer parte desse mundo maravilhoso de Dev
 </div>
 </br>
 <div align="center">
@@ -16,10 +21,13 @@
 </br>
  <div align="center">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Formando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Cleiton3280-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cleiton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Cleiton -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cleiton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Cleiton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Cleiton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ 
 </div>
  </div>
 </br>
