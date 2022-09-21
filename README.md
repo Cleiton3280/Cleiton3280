@@ -27,7 +27,8 @@
   <img align="center" alt="Cleiton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cleiton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Cleiton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- 
+ <img align="right" alt="Cleiton-pic" height="150" style="border-radius:50px;" src="https://rafaellaballerini.notion.site/Minha-nova-vida-70f68e7485cd40a080574c0b202074a1">
+</div>
 </div>
  </div>
 </br>
