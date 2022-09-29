@@ -43,6 +43,6 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Cleiton3280/count.svg" /></p>
 
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Cleiton3280/Cleiton3280/blob/output/github-contribution-grid-snake.svg)
 </div>
 
