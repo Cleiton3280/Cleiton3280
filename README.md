@@ -2,7 +2,7 @@
  <div align="center">
  <h1>Seja, bem vindo!</h1>
  <br><h3>Sou o Cleiton, criador de conteudo digital, musico, amante de tecnologia</h3>
- <br> Atualmente trabalhando com suporte N2 a usuarios
+ <br> Atualmente trabalhando como support analyst
  <br> Conhecimento em QA
  <br> Iniciando os estudos em desenvolvimento, inicialmente front, em primeiro momento autodidata
  <br>estou aberto a criticas, aceito desafios, e quero fazer parte desse mundo maravilhoso de Dev
